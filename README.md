@@ -1,4 +1,4 @@
-# Progetto Machine Learning - 2024
+# Progetto Machine Learning - Wine Type
 
 > Machine Learning Project for University Milano Bicocca. 2023-2024
 
