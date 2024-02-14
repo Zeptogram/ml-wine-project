@@ -8,7 +8,7 @@ Cartella su Google Drive -> [Link](https://drive.google.com/drive/folders/1n9fps
 
 Dataset Vino -> [Link](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
-Notebook Interessante -> [Link](https://www.kaggle.com/code/haimgoldfisher/wine-type-classifier)
+Notebook Interessanti -> [Link](https://www.kaggle.com/code/haimgoldfisher/wine-type-classifier](https://www.kaggle.com/datasets/rajyellow46/wine-quality/code))
 
 ## Note Eventuali
 
