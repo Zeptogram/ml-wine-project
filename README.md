@@ -12,8 +12,8 @@ Notebook Interessanti -> [Link](https://www.kaggle.com/datasets/rajyellow46/wine
 
 ## Note Eventuali
 
-- PCA dannata
-- Controllare Rete Neurale
-- SVM e un terzo modello: Alberi o Clustering?
-- Performace Evaluation
+- Merge delle parti
+- Mettere confronti finali e conclusioni
+- Relazione e Presentazione
+- Check di tutto
 
