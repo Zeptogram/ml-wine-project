@@ -9,7 +9,16 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## Il Progetto
+## Autori
+
+- Matteo Cavaleri
+- Elio Gargiulo
+- Cristian Piacente
+## Introduzione al Progetto
+
+In seguito un'introduzione al progetto e al dataset. Si consiglia di consultare la relazione e il progetto in se per approfondimenti e completezza.
+
+### Il Progetto
 
 Lo scopo del progetto e l’obiettivo dell’elaborato consiste nello svolgimento di
 un’analisi esplorativa di un dataset, ovvero un insieme di dati, con la costruzione e
@@ -23,7 +32,7 @@ vino, basato sulla sua composizione chimica.
 Lo scopo è quello di poter classificare un tipo di vino, rosso o bianco, in base
 all’analisi e apprendimento sulle diverse categorie (features) del dataset selezionato.
 
-## Il Dataset e le Features
+### Il Dataset e le Features
 
 Il dataset è stato selezionato con lo scopo di garantire coerenza e rilevanza nelle
 successive analisi condotte, utilizzando dati sensati e non fittizi.
@@ -65,12 +74,6 @@ La qualità di un vino si esprime con un valore di valutazione da 0 a 10 dunque
 potrebbe essere considerata categorica, mentre le altre features, che sono proprietà
 chimiche, sono esprimibili attraverso valori continui.
 
-
-## Autori
-
-- Matteo Cavaleri
-- Elio Gargiulo
-- Cristian Piacente
 
 
 
