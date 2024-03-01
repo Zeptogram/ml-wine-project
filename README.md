@@ -1,6 +1,12 @@
 # Progetto Machine Learning - Wine Type
 
-> Machine Learning Project for University Milano Bicocca. 2023-2024
+> Machine Learning Project for University Milano Bicocca. 2023-2024. Voto: 30
+
+[![Download Relazione PDF](https://img.shields.io/badge/Download%20Relazione-PDF-lime.svg?style=for-the-badge)](https://github.com/Zeptogram/indoor-navigation-tesi-triennale/releases/download/tesi_presentazione/Tesi_LT_28Luglio2023.pdf)
+[![Download Presentazione PDF](https://img.shields.io/badge/Download%20Presentazione-PDF-orange.svg?style=for-the-badge)](https://github.com/Zeptogram/indoor-navigation-tesi-triennale/releases/download/tesi_presentazione/Presentazione_LT_24Luglio2023.pdf)
+[![Dataset Vini](https://img.shields.io/badge/Dataset-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 ## Il Progetto
 
@@ -27,11 +33,12 @@ dati adatta, preferibilmente con variabili numeriche continue e non nulle.
 
 Perciò si è scelto un dataset con categorie maggiormente di tipo numerico continuo.
 
-Dataset Vino -> [Link](https://www.kaggle.com/datasets/rajyellow46/wine-quality)
 
 ## Autori
 
 - Matteo Cavaleri 875050​
 - Elio Gargiulo 869184​
 - Cristian Piacente 866020
+
+
 
