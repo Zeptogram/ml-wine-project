@@ -36,9 +36,9 @@ Perciò si è scelto un dataset con categorie maggiormente di tipo numerico cont
 
 ## Autori
 
-- Matteo Cavaleri 875050​
-- Elio Gargiulo 869184​
-- Cristian Piacente 866020
+- Matteo Cavaleri
+- Elio Gargiulo
+- Cristian Piacente
 
 
 
