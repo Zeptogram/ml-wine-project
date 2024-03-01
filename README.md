@@ -56,7 +56,6 @@ in grammi per decimetro cubo (g/dm³).
 espressa in grammi per decimetro cubo (g/dm³).
 - __Chlorides (cloruri)__: Concentrazione di cloruri nel vino, espressa in grammi di
 cloruro di sodio per decimetro cubo (g/dm³).
-4
 - __Free sulfur dioxide (anidride solforosa libera)__: Quantità di anidride solforosa
 libera nel vino, espressa in milligrammi per decimetro cubo (mg/dm³).
 - __Total sulfur dioxide (anidride solforosa totale)__: Quantità totale di anidride
